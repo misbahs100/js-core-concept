@@ -1,0 +1,52 @@
+what is javascript
+-> with which we can make our website interactive in both client, server side.
+-> a scripting language which runs on runtime evaluation. that's why it is fast also.
+
+what is variable (numeric, string, boolean)
+-> a variable is a place, where we keep some value
+
+let, const
+-> introduced in es6
+-> var variables can be updated and re-declared within its scope; 
+-> let variables can be updated but not re-declared; 
+-> const variables can neither be updated nor re-declared
+
+mathematical operation (sum(num, string), sub, mul, div)
+-> increment, decrement
+
+parseInt, parseFloat, toFixed
+
+what is array (length, index, indexOf, push, pop)
+
+conditions (if-else)
+
+looping (for, while)
+-> for loop
+for(initialization; condition; counterUpdate){
+   //statement;
+}
+-> while loop
+initialization
+while(condition){
+    statement
+    counterUpdate
+}
+
+what is function (params, return, block)
+-> block of codes
+-> works only when it is called
+-> takes input (parameters)  
+-> return a result
+
+
+sum, mul, div within one function
+
+break, continue
+
+object
+array of object
+object of array
+
+factorial of a number
+
+
