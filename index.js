@@ -1,69 +1,125 @@
-var sakibTaka = 10;
-var rakibTAka =  5;
-var salmanBank = 3;
+var sakibBank = 10
+var rakibBank = 50
 
-let name1 = "salman";
-var name2 = 'rakib';
-// let name1 = "kabir"
+var name = "sakib"
 
+var answer = true;
+var answer = false;
 
-var totalTaka = sakibTaka + rakibTAka;
+// let name1 = "rakib"
+var fname = "roton"
 
+var lname = "salam"
 
+var result = fname + " " + lname
 
-// if(salmanBank > 10){
-//     console.log("I am borolox");
-// }
-// else{
-//     console.log("biye hobe na");
-// }
+var weight = "64.5";
 
-// console.log(salmanBank);
-// console.log(parseInt(salmanBank))
+// parseInt(weight)
 
-// looping - for loop, while loop
-// 1, 2, 3, ... ,10
-// console.log(1) i = 1;
-// console.log(2) i = 2; i= 1+1;
-// console.log(i) i = ;
-var i;
+// console.log(parseFloat(weight));
 
-// printName();
-function printName() {
-    console.log(name1);
-    console.log(name2)
+var first = [14, 15, 20, 40, 3, 7, 2];
+
+// first.push(30)
+
+// first.pop()
+
+var onion = 18;
+
+if(onion > 200)
+    {console.log("kinbo na");
+     
+    console.log("ami borolox");}
+
+else if(onion >100 && onion<200){
+    console.log("ajke piyaj khabo");
+}
+else{
+    console.log("good luck");
 }
 
-person1 = { name: '', age: 30}
 
-var person = {
-    person1 : '3',
-    person2 : 32
-}
-console.log(person.person1);
-// for (let i = 0; i < person.length; i++) {
-//     var container = person[i];
-// //    console.log(container);
-    
+
+// console.log(1);
+// console.log(2);
+// console.log(3);
+// console.log(10);
+//  initial value = 1;
+// condition 
+// counter update
+// var i;
+// // for(i=1; i<=12; i=i+2){
+// //     console.log(i);
+// // }
+
+// i=1;
+// while(i<=12){
+//     console.log(i);
+
+//     i = i+2;
 // }
 
-// for (const key in person) {
-//    console.log(key);
+
+
+
+// var fname = "roton"
+
+// var lname = "salam"
+
+// function printName(num1, num2){
+//     var total = num1 * num2
+
+
+//   return total;
 // }
 
-//5! = 5 * 4 * 3 * 2 * 1
-//n! = n * (n-1) * (n-2) ... * 3 * 2 * 1
-function factorial (n) {
-    var result = 1;
-    for(var i=n; i>=1; i--){
-        result = result * i;
-    }
-    return result;
+
+
+// var resultt = printName(10, 20)
+
+// // var resultt = 30
+// console.log("the result is: ", resultt);
+
+
+// console.log(first.indexOf(40));
+
+// var i;
+// for(i=1; i<=12; i=i+2){
+   
+//     // if(i==5) break;
+
+//     if(i==7) continue;
+//     console.log(i);
+
+// }
+
+
+// var person = {
+//     name: "rahim",
+//     age: 30
+// }
+
+// console.log(person.age);
+
+
+// 5! = 5 * 4 * 3 * 2 * 1
+// 6! = 6 * 5 * 4 * 3 * 2 * 1
+
+// var n = 5;
+// var result = 1;
+// var i;
+// for(i=5; i>=1; i=i-1){
+//     // console.log(i);
+//    result = result * i;
+
+// }
+
+// console.log(result);
+
+var first = "5";
+var second = "5";
+
+if(first === second){
+    console.log("hurray");
 }
-console.log(factorial(0))
-
-
-
-
-
-

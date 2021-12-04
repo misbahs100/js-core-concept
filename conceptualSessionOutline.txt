@@ -1,6 +1,7 @@
 what is javascript
 -> with which we can make our website interactive in both client, server side.
--> a scripting language which runs on runtime evaluation. that's why it is fast also.
+-> a scripting language which runs on runtime evaluation. 
+   that's why it is fast also.
 
 what is variable (numeric, string, boolean)
 -> a variable is a place, where we keep some value
