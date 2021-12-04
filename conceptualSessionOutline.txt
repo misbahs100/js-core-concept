@@ -45,7 +45,6 @@ break, continue
 
 object
 array of object
-object of array
 
 factorial of a number
 
